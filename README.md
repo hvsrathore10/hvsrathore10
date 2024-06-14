@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshvardhan8991@gmail.com**
 
-- 📄 Know about my experiences [https://hvsrathore10.github.io/](https://hvsrathore10.github.io/)
+- 📄 Know about my experiences [here](https://hvsrathore10.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
