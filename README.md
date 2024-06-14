@@ -9,9 +9,10 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **harshvardhan04160@gmail.com**
+- 📫 How to reach me **harshvardhan8991@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nKIyaCqtd0wRpxGVVEhZH-Qe2EWL2m50/view?usp=sharing](https://drive.google.com/file/d/1nKIyaCqtd0wRpxGVVEhZH-Qe2EWL2m50/view?usp=sharing)
+- 📄 Know about my experiences [here](https://hvsrathore10.github.io/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
