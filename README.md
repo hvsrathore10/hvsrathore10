@@ -11,15 +11,15 @@
 
 - 📫 How to reach me **harshvardhan8991@gmail.com**
 
-- 📄 Know about my experiences [here](https://hvsrathore10.github.io/)
-
+- 📄 Know about my experiences [https://hvsrathore10.github.io/](https://hvsrathore10.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/harshvardhansingh8991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/harshvardhansingh8991" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/harshvardhan-singh/pfbid02f1gjypkjrzccwshsvzx84u8qzyurnx4r4o7nchvyredjhvysfvguxnheynwfpbucl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/harshvardhan-singh/pfbid02f1gjypkjrzccwshsvzx84u8qzyurnx4r4o7nchvyredjhvysfvguxnheynwfpbucl/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/harsh_rathore_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harsh_rathore_10/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/harsh_rathore_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/harsh_rathore_10/" height="30" width="40" /></a>
+<a href="https://twitter.com/harshva00602622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshva00602622" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshvardhansingh8991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhansingh8991" height="30" width="40" /></a>
+<a href="https://fb.com/harshvardhan-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshvardhan-singh" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh_rathore_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_rathore_10" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/harsh_rathore_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harsh_rathore_10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvsrathore10&show_icons=true&locale=en" alt="hvsrathore10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvsrathore10&" alt="hvsrathore10" /></p>
-
